@@ -6,6 +6,6 @@ The different between these two projects are that Image applies Java native Buff
 
 ```shell
 cd $(GIT_ROOT)
-git clone https://github.com/frankjiang/image.git
+git clone https://github.com/frankjiang/image4j.git
 mvn install
 ```
